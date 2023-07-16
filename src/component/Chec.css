@@ -1,0 +1,20 @@
+.mee{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.carte{
+    display: flex;
+    justify-content: center;
+    margin-top: 200 px;
+    margin-bottom: 20px;
+}
+.App{
+    background-image: url('C:\Users\LENOVO\Desktop\gomycode\react\checkpoint\checkpoint\public/eau.avif');
+    /* margin-top: 30px; */
+}
+.App .carte {
+    position: relative;
+}
